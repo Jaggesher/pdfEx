@@ -42,8 +42,8 @@ namespace WebApplication1.Controllers
                     {
                         PagesCount = true,           
                         HeaderSettings = { FontName = "Arial", FontSize = 9, Right = "Page [page] of [toPage]", Line = true },
-                        FooterSettings = { FontName = "Arial", FontSize = 9, Line = true, Center = "Report Footer" },
-                        Page = "https://www.w3schools.com/bootstrap/trybs_theme_band_full.htm",
+                        FooterSettings = { FontName = "Arial", FontSize = 9, Line = true, Center = "Experiment " },
+                        Page = "https://bangla.bdnews24.com/glitz/article1599868.bdnews?fbclid=IwAR1bpeuJ1qoNez0kIwXcSgybcoeiK2BeigEIgBtFLxbrqivvmN0W0-j2ln0",
                     }
                 }
             };
